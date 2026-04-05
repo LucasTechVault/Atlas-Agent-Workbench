@@ -1,2 +1,3 @@
 Atlas.docx
-.env
+atlas-workbench/.env
+atlas-workbench/.venv
